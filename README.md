@@ -1,5 +1,3 @@
-# Poetry-Generation-with-n-gram-Language-Modeling
-
 # Poetry Generation with n-gram Language Modeling
 
 ## Overview
